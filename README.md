@@ -40,7 +40,7 @@ make
 Once compiled, launch the solver with the following command:
 
 ```bash
-./sudoku
+./sudoku path/to/your/grid_file
 
 ```
 
